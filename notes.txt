@@ -9,3 +9,4 @@ When ready to commit changes
 use: 
 git add .
 git commit -m "commit change note"
+git push
