@@ -1,10 +1,11 @@
 <script setup>
+import navbar from './components/navbar.vue'
 </script>
 
 <template>
-  <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+  <div class="container">
+    <navbar></navbar>
+  </div>
 </template>
 
 <style scoped>
