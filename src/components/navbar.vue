@@ -4,7 +4,7 @@
 <template>
     <div class="container">
         <!--<img src="../assets/Images/jake2k4PFP.png" class="max-h-40">-->
-        <div class="flex flex-wrap h-screen">
+        <div class="flex flex-wrap">
             <section class="relative mx-auto">
                 <!-- navbar -->
                 <nav class="flex justify-between bg-gray-900 text-white w-screen border-b-2 border-red-400">

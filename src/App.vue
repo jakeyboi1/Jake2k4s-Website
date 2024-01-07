@@ -1,5 +1,5 @@
 <script setup>
-import navbar from './components/navbar.vue'
+import home from './pages/homePage.vue'
 let devMode = false
 
 if (devMode) {
@@ -10,7 +10,7 @@ if (devMode) {
 
 <template>
   <div class="container">
-    <navbar></navbar>
+    <home></home>
   </div>
 </template>
 
