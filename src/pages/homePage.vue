@@ -5,7 +5,7 @@ import navbar from '../components/navbar.vue'
 <template>
     <div class="container">
         <navbar></navbar>
-        <div class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:items-center">
+        <div class="py-32 items-center w-screen">
             <div class="mx-auto max-w-xl text-center">
                 <h1 class="text-3xl text-blue-700 font-extrabold sm:text-5xl">
                     Welcome To
