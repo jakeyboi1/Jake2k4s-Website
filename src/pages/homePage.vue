@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import navbar from '../components/navbar.vue'
+import navbar from '../components/navbar.vue' //Ignore this error works fine
 const warningVisible = ref(true)
 </script>
 
@@ -16,25 +16,20 @@ const warningVisible = ref(true)
                 </h1>
 
                 <p class="mt-4 sm:text-xl/relaxed text-white">
-                    Currently In The Development Stage!
+                    Hi I am Jake2k4, and this is my website. I am a developer and I make websites, discord bots, and more. I also have a discord server where you can get help with your projects and hang out with other developers.
                 </p>
 
                 <div class="mt-8 flex flex-wrap justify-center gap-4">
-                    <a
-                    class="block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-red-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto"
-                    href="/get-started"
-                    >
-                    Get Started
-                    </a>
-
-                    <a
-                    class="block rounded px-12 py-3 text-sm font-medium text-red-600 shadow hover:text-red-700 focus:outline-none focus:ring active:text-red-500 sm:w-auto"
-                    href="/about"
-                    >
-                    Learn More
-                    </a>
+                    <RouterLink to="/about" class="block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-red-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto">
+                        Get Started
+                    </RouterLink>
                 </div>
             </div>
+        </div>
+
+        <div class="aboutThisSiteCard w-96 text-center h-48 absolute bottom-6 right-2">
+            <div class="text-2xl font-bold text-red-500">About This Website!</div>
+            <body class="text-white mt-2 text-xl">This website was created using Vue.js and Tailwind CSS in order to learn both frameworks. This site also houses all my projects I have worked on, and acts as my portfolio!</body>
         </div>
 
         <!--Under Development Warning Remove When Finished Developing-->

@@ -10,7 +10,7 @@ if (devMode) {
 
 <template>
   <div class="container">
-    <home></home>
+    <RouterView></RouterView>
   </div>
 </template>
 
