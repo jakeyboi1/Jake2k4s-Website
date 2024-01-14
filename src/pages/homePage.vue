@@ -8,7 +8,7 @@ const warningVisible = ref(true)
     <div class="container">
         <navbar></navbar>
         <!--Main Content-->
-        <div class="py-32 items-center w-screen">
+        <div class="py-20 items-center w-screen">
             <div class="mx-auto max-w-xl text-center">
                 <h1 class="text-3xl text-blue-700 font-extrabold sm:text-5xl">
                     Welcome To
