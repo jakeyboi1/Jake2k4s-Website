@@ -1,5 +1,4 @@
 <script setup>
-import home from './pages/homePage.vue'
 let devMode = false
 
 if (devMode) {

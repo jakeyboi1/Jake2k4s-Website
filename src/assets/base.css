@@ -3,7 +3,16 @@
 @tailwind utilities;
 
 * {
-    background-color: rgb(12, 12, 12);
+  background-color: rgb(12, 12, 12);
+}
+
+/*Thank you kind stack overflow stranger for informing me about margin and padding. This fixed the annoying horizontal nav bar issue on the about me page*/
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /*This may need to be moved later as this is hiding it everywhere but I think that will be fine for this project*/
 }
 
 ::-webkit-scrollbar {

@@ -16,11 +16,11 @@ const warningVisible = ref(true)
                 </h1>
 
                 <p class="mt-4 sm:text-xl/relaxed text-white">
-                    Hi I am Jake2k4, and this is my website. I am a developer and I make websites, discord bots, and more. I also have a discord server where you can get help with your projects and hang out with other developers.
+                    Hi I am Jake2k4, and this is my website. I am a 19 year old software developer with a passion for programming, and computers. I have as of writing this been coding for a little over a year now. I currently work at Walmart as an Electronic's Team Associate, and I am enrolled in college to earn a associates degree in programming!
                 </p>
 
                 <div class="mt-8 flex flex-wrap justify-center gap-4">
-                    <RouterLink to="/about" class="block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-red-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto">
+                    <RouterLink to="/jake2k4s-website/about" class="block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-red-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto">
                         Get Started
                     </RouterLink>
                 </div>
