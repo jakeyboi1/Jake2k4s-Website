@@ -12,6 +12,7 @@ import { RouterLink } from 'vue-router'
                 <div class="md:flex px-4 mx-auto font-semibold font-heading space-x-12">
                     <RouterLink to="/jake2k4s-website" class="hover:text-gray-200">Home</RouterLink>
                     <RouterLink to="/jake2k4s-website/about" class="hover:text-gray-200">About</RouterLink>
+                    <RouterLink to="/jake2k4s-website/projects" class="hover:text-gray-200">Projects</RouterLink>
                 </div>
             </div>
         </nav>

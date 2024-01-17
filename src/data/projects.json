@@ -1,0 +1,229 @@
+[
+    {
+        "name": "Jake2k4s Website",
+        "link": "https://github.com/jakeyboi1/jake2k4s-website",
+        "description": "My personal website (Also the one you are currently on), where you can find all of my projects, and contact me. It was built using Vue, Tailwind, DaisyUI, and is hosted on Github Pages!",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I4FWon9Y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ll22z8mea106b4vjdjy7.jpeg",
+        "imageAlt": "Vue",
+        "projectType": "Web",
+        "tags": [
+            "Vue",
+            "JS",
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "DaisyUI"
+        ],
+        "newFlag": true
+    },
+    {
+        "name": "discord.py Boilerplate",
+        "link": "https://github.com/jakeyboi1/discord.py-boilerplate",
+        "description": "A boilerplate for discord.py bots, with features such as a command handling, threading, messaging, and more!",
+        "image": "https://thebluemanakin.com/wp-content/uploads/2022/06/channels4_profile-900x450-1.jpeg",
+        "imageAlt": "discord.py",
+        "projectType": "Discord Bot",
+        "tags": [
+            "Python",
+            "Discord",
+            "JSON",
+            "discord.py"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "PythonCLI",
+        "link": "https://github.com/jakeyboi1/PythonCLI",
+        "description": "A python CLI with an abundance of features such as a password manager, RedM script template maker, CFX web scraper, Epic Games Webscraper, File Encryptor, and version checking!",
+        "image": "https://www.gitkraken.com/wp-content/uploads/2022/02/CLI-stands-forHero.png",
+        "imageAlt": "PythonCLI",
+        "projectType": "Python",
+        "tags": [
+            "Python",
+            "CLI",
+            "JSON"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "Greedfall Trainer",
+        "link": "https://github.com/jakeyboi1/GreedFall-Hack",
+        "description": "A trainer for the game Greedfall. This trainer allows you to modify your health, experience, carry weight, and give yourself infinite items. It works by using C++ to change the value of the memory address of the game.",
+        "image": "https://store-images.s-microsoft.com/image/apps.57317.14124211705425276.aaa225d5-ad36-401f-9288-7786f85572a0.00a2547b-c48c-4f85-8ae6-dfaca0b23159?mode=scale&q=90&h=1080&w=1920",
+        "imageAlt": "Greedfall",
+        "projectType": "C++",
+        "tags": [
+            "C++",
+            "Memory",
+            "Game"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "Red Resourcer",
+        "link": "https://discord.com/api/oauth2/authorize?client_id=1143373007390249011&permissions=8&scope=bot",
+        "description": "A discord bot that allows you to search for RedM resources, and see how many servers are using a resource.",
+        "image": "https://thebluemanakin.com/wp-content/uploads/2022/06/channels4_profile-900x450-1.jpeg",
+        "imageAlt": "RedResourcer",
+        "projectType": "Discord Bot",
+        "tags": [
+            "Discord",
+            "NodeJS",
+            "JSON",
+            "JS"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-ranch",
+        "link": "https://github.com/BryceCanyonCounty/bcc-ranch",
+        "description": "A RedM resource that allows players to purchase and manage a ranch. With the ranch, players can raise animals, harvest animal byproducts, hire ranch hands, and sell thier animals!",
+        "image": "https://www.gamespot.com/a/uploads/original/1179/11799911/3383938-duck.jpg",
+        "imageAlt": "rdr2Ranch",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-farming",
+        "link": "https://github.com/BryceCanyonCounty/bcc-farming",
+        "description": "A RedM resource that allows players to plant, and tend to crops! With features such as blips, watering, job locking, and more!",
+        "image": "https://www.rdr2.org/wp-content/uploads/2018/12/Plants-herbs.jpg",
+        "imageAlt": "rdr2Plant",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-robbery",
+        "link": "https://github.com/BryceCanyonCounty/bcc-robbery",
+        "description": "A RedM resource that allows players to rob locations around the map by shooting there gun while inside. With features like police alerts, cooldowns, lockpicking minigames, and more!",
+        "image": "https://cs1.worldofmods.com/attachments/2019-12/original/a910279ebea465749fb69f4bf12ec0e168490501/2383-kak-ograbit-bank-resizebyheight-cropcenter-640-435.jpg",
+        "imageAlt": "rdr2Robbery",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-oil",
+        "link": "https://github.com/BryceCanyonCounty/bcc-oil",
+        "description": "A RedM resource that allows players to purchase an oil and supply wagon to do oil, and supply runs. Alternatively the player could meet a NPC at an old cabin, and choose to rob the oil company!",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37c133f9-0dcf-4bf3-817e-054eeface006/dfr7w1h-18bc707d-af1a-4875-87d1-6fae6da7065a.jpg/v1/fill/w_1280,h_800,q_75,strp/new_hanover__oil_derrick_by_a_teller_dfr7w1h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMzdjMTMzZjktMGRjZi00YmYzLTgxN2UtMDU0ZWVmYWNlMDA2XC9kZnI3dzFoLTE4YmM3MDdkLWFmMWEtNDg3NS04N2QxLTZmYWU2ZGE3MDY1YS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9xJ2aLHZD3DztKTgxZYS4OTrVvrX5xkyGCeotMel6s8",
+        "imageAlt": "rdr2Oil",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-housing",
+        "link": "https://github.com/BryceCanyonCounty/bcc-housing",
+        "description": "A RedM resource that allows players to purchase a house, and decorate it with furniture. With features like house blips, house storage, and more!",
+        "image": "https://assetsio.reedpopcdn.com/red-dead-redemption-2-modder-finally-adds-way-to-buy-properties-1627037109548.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+        "imageAlt": "rdr2House",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-doorlocks",
+        "link": "https://github.com/BryceCanyonCounty/bcc-doorlocks",
+        "description": "A RedM resource that allows players to lock doors, and unlock them with a key or job role. With features like door blips, job locking,and more!",
+        "image": "https://64.media.tumblr.com/dc618e8e447d7cb8a84850d2baee6418/cdc614f00bd3f891-fe/s500x750/010c4c35c1d57c3454ba215b5dbc119f58529a47.jpg",
+        "imageAlt": "rdr2Door",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-nazar",
+        "link": "https://github.com/BryceCanyonCounty/bcc-nazar",
+        "description": "A RedM resource that aims to recreate Madam Nazar from Red Dead Online. With features like a blip, and a random location every server restart! Players can buy and sell items to her!",
+        "image": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2019/11/15/rdo-madam-nazar-location_feature.jpg",
+        "imageAlt": "rdr2Nazar",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-train",
+        "link": "https://github.com/BryceCanyonCounty/bcc-train",
+        "description": "A RedM resource that allows players to purchase a train, and drive it around the map. With features like a blip, custom speeds, fueling, autopilot, and more!",
+        "image": "https://cdn.vox-cdn.com/thumbor/w34n2AM4vNBdQHTyd3mLanDvfd8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/62381198/5_full.0.jpg",
+        "imageAlt": "rdr2Train",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-legendaries",
+        "link": "https://github.com/BryceCanyonCounty/bcc-legendaries",
+        "description": "A RedM resource that allows players to hunt legendary animals.",
+        "image": "https://www.greenmangaming.com/blog/wp-content/uploads/2021/02/red-dead-animals-890x606.jpg",
+        "imageAlt": "rdr2Legendary",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua",
+            "SQL"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-acidtrip",
+        "link": "https://github.com/BryceCanyonCounty/bcc-acidtrip",
+        "description": "A RedM resource that allows players to take acid, and trip out.",
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/red-dead-redemption-2/6/61/A_Quiet_Time4.jpg?width=640",
+        "imageAlt": "rdr2Acid",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua"
+        ],
+        "newFlag": false
+    },
+    {
+        "name": "bcc-camp",
+        "link": "https://github.com/BryceCanyonCounty/bcc-camp",
+        "description": "A RedM resource that allows players to setup camp, and do camp activities, store items, and more",
+        "image": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2018/10/31/bf6ebe09-2148-4ee9-afeb-46c5bf95c29e/red-dead-redemption-2-camp",
+        "imageAlt": "rdr2Camp",
+        "projectType": "RedM",
+        "tags": [
+            "RedM",
+            "Lua"
+        ],
+        "newFlag": false
+    }
+]
