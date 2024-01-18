@@ -14,4 +14,5 @@ if (devMode) {
 </template>
 
 <style scoped>
+/*Testing a comment for example*/
 </style>
