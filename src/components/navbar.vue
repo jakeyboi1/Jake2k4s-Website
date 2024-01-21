@@ -10,9 +10,9 @@ import { RouterLink } from 'vue-router'
             <div class="px-5 xl:px-12 py-4 flex">
                 <!-- Nav Links -->
                 <div class="md:flex px-4 mx-auto font-semibold font-heading space-x-12">
-                    <RouterLink to="/jake2k4s-website" class="hover:text-gray-200">Home</RouterLink>
-                    <RouterLink to="/jake2k4s-website/about" class="hover:text-gray-200">About</RouterLink>
-                    <RouterLink to="/jake2k4s-website/projects" class="hover:text-gray-200">Projects</RouterLink>
+                    <RouterLink to="/" class="hover:text-gray-200">Home</RouterLink>
+                    <RouterLink to="/about" class="hover:text-gray-200">About</RouterLink>
+                    <RouterLink to="/projects" class="hover:text-gray-200">Projects</RouterLink>
                 </div>
             </div>
         </nav>
