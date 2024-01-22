@@ -27,7 +27,7 @@ const warningVisible = ref(true)
             </div>
         </div>
 
-        <div class="w-96 h-34 ml-auto">
+        <div class="w-96 h-34 ml-auto px-4"> <!--ml-auto puts it all the way to the left and helps mobile resolution-->
             <div class="text-2xl font-bold text-red-500">About This Website!</div>
             <body class="text-white mt-2 text-xl">This website was created using Vue.js and Tailwind CSS in order to learn both frameworks. This site also houses all my projects I have worked on, and acts as my portfolio!</body>
         </div>
