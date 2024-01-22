@@ -9,7 +9,7 @@ function openLink(link) {
 
 <template>
     <navbar></navbar>
-    <div class="w-screen text-white">
+    <div class="w-screen text-white px-4">
         <div>
             <div class="pageTitle bg-base-200 text-center my-10">
                 <h1 class="text-5xl font-bold">Projects</h1>

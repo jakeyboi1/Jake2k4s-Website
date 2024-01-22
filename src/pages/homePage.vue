@@ -5,7 +5,7 @@ const warningVisible = ref(true)
 </script>
 
 <template>
-    <div class="container">
+    <div class="px-4">
         <navbar></navbar>
         <!--Main Content-->
         <div class="px-4 py-14 items-center w-screen">
