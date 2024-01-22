@@ -5,11 +5,11 @@ const warningVisible = ref(true)
 </script>
 
 <template>
-    <div class="w-screen">
+    <div class="w-screen text-center">
         <navbar></navbar>
         <!--Main Content-->
         <div class="px-4 py-14 items-center">
-            <div class="mx-auto max-w-xl text-center">
+            <div class="mx-auto max-w-xl">
                 <h1 class="text-3xl text-blue-700 font-extrabold sm:text-5xl">
                     Welcome To
                     <strong class="font-extrabold text-red-700 sm:block"> Jake2k4's Website </strong>
@@ -27,7 +27,7 @@ const warningVisible = ref(true)
             </div>
         </div>
 
-        <div class="w-96 text-center items-center h-46 absolute bottom-2 right-2 px-8">
+        <div class="w-96 h-38 absolute bottom-2 right-2 px-8 py-4">
             <div class="text-2xl font-bold text-red-500">About This Website!</div>
             <body class="text-white mt-2 text-xl">This website was created using Vue.js and Tailwind CSS in order to learn both frameworks. This site also houses all my projects I have worked on, and acts as my portfolio!</body>
         </div>
