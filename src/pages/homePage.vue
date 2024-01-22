@@ -5,10 +5,10 @@ const warningVisible = ref(true)
 </script>
 
 <template>
-    <div class="px-4">
+    <div class="w-screen">
         <navbar></navbar>
         <!--Main Content-->
-        <div class="px-4 py-14 items-center w-screen">
+        <div class="px-4 py-14 items-center">
             <div class="mx-auto max-w-xl text-center">
                 <h1 class="text-3xl text-blue-700 font-extrabold sm:text-5xl">
                     Welcome To
