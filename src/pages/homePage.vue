@@ -20,7 +20,7 @@ const warningVisible = ref(true)
                 </p>
 
                 <div class="mt-8 flex flex-wrap justify-center gap-4">
-                    <RouterLink to="/jake2k4s-website/about" class="block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-red-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto">
+                    <RouterLink to="/about" class="block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-red-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto">
                         Get Started
                     </RouterLink>
                 </div>
