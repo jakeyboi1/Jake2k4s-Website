@@ -9,15 +9,15 @@ function openLink(link) {
 
 <template>
     <navbar></navbar>
-    <div class="container">
-        <div class="pageTitle bg-base-200 text-center my-10 w-screen">
-            <h1 class="text-5xl text-white font-bold">Projects</h1>
-            <p class="py-6 text-white text-lg">This is a collection of all the projects I have developed over my time in programming!</p>
+    <div class="w-screen text-white">
+        <div>
+            <div class="pageTitle bg-base-200 text-center my-10">
+                <h1 class="text-5xl font-bold">Projects</h1>
+                <p class="py-6 text-lg">This is a collection of all the projects I have developed over my time in programming!</p>
+            </div>
         </div>
-    </div>
 
-    <div class="w-screen">
-        <div class="text-white grid grid-cols-3 gap-20 my-20 mx-8">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-20 my-10 mx-8">
             <div v-for="project in projects" class="flex flex-col hover:cursor-pointer hover:opacity-80" @click="openLink(project.link)"> <!--Flex col keeps them same size-->
                 <figure><img :src="project.image" :alt="project.imageAlt" /></figure>
                 <div class="card-body bg-gray-800">
@@ -38,5 +38,4 @@ function openLink(link) {
 </template>
 
 <style scoped>
-/* Your CSS styles here */
 </style>

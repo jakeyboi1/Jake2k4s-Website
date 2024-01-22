@@ -3,10 +3,10 @@ import navbar from '../components/navbar.vue';
 </script>
 
 <template>
-    <div class="container w-screen"> <!--Hiding x overflow so no side scroll bar on the bottom of your screen-->
+    <div class="w-screen text-center"> <!--Hiding x overflow so no side scroll bar on the bottom of your screen-->
         <navbar></navbar>
-        <div class="py-20 items-center w-screen">
-            <div class="mx-auto max-w-xl text-center">
+        <div class="py-20 items-center px-4">
+            <div class="mx-auto max-w-xl">
                 <strong class="sm:text-5xl font-extrabold text-red-700 sm:block">
                     About Me 
                 </strong>
@@ -18,12 +18,12 @@ import navbar from '../components/navbar.vue';
         </div>
 
 
-        <strong class="sm:text-5xl font-extrabold text-blue-700 sm:block w-screen text-center my-2 mt-10">
+        <strong class="sm:text-5xl font-extrabold text-blue-700 sm:block mb-2 mt-8">
             Things I have Used:
         </strong>
-        <div class="grid grid-cols-3 gap-96 w-screen">
-            <div class="py-32 items-center">
-                <div class="mx-auto max-w-xl text-center">
+        <div class="grid grid-cols-1 gap-4 lg:grid-cols-3"> <!--lg:grid-cols-3 will make it a 3 row columns on a big screen and if its a small screen grid-cols-1 will take effect and make it a 1 column row fixing mobile overflow issue and making it look good-->
+            <div class="py-14 items-center">
+                <div class="mx-auto max-w-xl">
                     <strong class="sm:text-5xl font-extrabold text-blue-700 sm:block">
                         Languages:
                     </strong>
@@ -43,8 +43,8 @@ import navbar from '../components/navbar.vue';
                 </div>
             </div>
 
-            <div class="py-32 items-center">
-                <div class="mx-auto max-w-xl text-center">
+            <div class="py-14 items-center">
+                <div class="mx-auto max-w-xl">
                     <strong class="sm:text-5xl font-extrabold text-blue-700 sm:block">
                         Frameworks:
                     </strong>
@@ -57,8 +57,8 @@ import navbar from '../components/navbar.vue';
                     </p>
                 </div>
             </div>
-            <div class="py-32 items-center">
-                <div class="mx-auto max-w-xl text-center">
+            <div class="py-14 items-center">
+                <div class="mx-auto max-w-xl">
                     <strong class="sm:text-5xl font-extrabold text-blue-700 sm:block">
                         Databases:
                     </strong>
