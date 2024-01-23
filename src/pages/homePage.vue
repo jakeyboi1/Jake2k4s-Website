@@ -3,7 +3,7 @@ import navbar from '../components/navbar.vue' //Ignore this error works fine
 </script>
 
 <template>
-    <div class="text-center">
+    <div class="text-center w-screen">
         <navbar></navbar>
         <!--Main Content-->
         <div class="py-14 items-center px-4">
