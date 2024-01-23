@@ -8,8 +8,7 @@ function openLink(link) {
 <template>
     <div>
         <div class="navbar border-b-2 border-red-400 w-screen">
-            <a class="btn btn-ghost text-xl w-60 absolute">Jake2k4's Website</a>
-            <div class="navbar-center hidden lg:flex mx-auto">
+            <div class="navbar-center mx-auto">
                 <ul class="menu menu-horizontal px-1">
                     <li><RouterLink to="/" class="hover:text-gray-200">Home</RouterLink></li>
                     <li><RouterLink to="/about" class="hover:text-gray-200">About</RouterLink></li>
