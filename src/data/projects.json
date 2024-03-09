@@ -1,8 +1,8 @@
 [
     {
-        "name": "Jake2k4s Website",
-        "link": "https://github.com/jakeyboi1/jake2k4s-website",
-        "description": "My personal website (Also the one you are currently on), where you can find all of my projects, and contact me. It was built using Vue, Tailwind, DaisyUI, and is hosted on Github Pages!",
+        "name": "JCC Scripts Website",
+        "link": "https://jakes-code-cave.github.io/jcc-website/#/",
+        "description": "My RedM Development Studio's website. It was built using Vue, Tailwind, DaisyUI, and is hosted on Github Pages!",
         "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I4FWon9Y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ll22z8mea106b4vjdjy7.jpeg",
         "imageAlt": "Vue",
         "projectType": "Web",
@@ -15,6 +15,23 @@
             "DaisyUI"
         ],
         "newFlag": true
+    },
+    {
+        "name": "Jake2k4s Website",
+        "link": "https://jakeyboi1.github.io/jake2k4s-website/#/",
+        "description": "My personal website (Also the one you are currently on), where you can find all of my projects, and contact me. It was built using Vue, Tailwind, DaisyUI, and is hosted on Github Pages!",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I4FWon9Y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ll22z8mea106b4vjdjy7.jpeg",
+        "imageAlt": "Vue",
+        "projectType": "Web",
+        "tags": [
+            "Vue",
+            "JS",
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "DaisyUI"
+        ],
+        "newFlag": false
     },
     {
         "name": "discord.py Boilerplate",

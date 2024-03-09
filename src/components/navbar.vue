@@ -9,7 +9,7 @@ function openLink(link) {
     <div>
         <div class="navbar border-b-2 border-red-400 w-screen">
             <div class="navbar-center mx-auto">
-                <ul class="menu menu-horizontal px-1">
+                <ul class="menu menu-horizontal px-1 text-white">
                     <li><RouterLink to="/" class="hover:text-gray-200">Home</RouterLink></li>
                     <li><RouterLink to="/about" class="hover:text-gray-200">About</RouterLink></li>
                     <li><RouterLink to="/projects" class="hover:text-gray-200">Projects</RouterLink></li>
